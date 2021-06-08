@@ -1,4 +1,4 @@
-for saved video in the path specified:
+shrimp-counter:
 python detectvideo_counter.py --weights ./checkpoints/yolov4-416 --framework tf --size 416 --video ./data/video/shrimps.mp4
 
 for live:
